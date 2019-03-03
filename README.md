@@ -1,3 +1,4 @@
+## Face recognition project :
 this is an edited version of " ageitgey  face recognition project " . this version is ready to use with GUI and dataset .
 ## Installation :
 ### Requirements for windows 10 :
