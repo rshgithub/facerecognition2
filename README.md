@@ -3,6 +3,8 @@ this is an edited version of " ageitgey  face recognition project " . this versi
 ## Source project :
 here you will find an explanation about the project & more information about downloading it step by step on other operating systems:
   * [@face recognition](https://github.com/ageitgey/face_recognition)
+## How face recognition works ? 
+  * [@how-face-recognition-works](https://medium.com/@ageitgey/machine-learning-is-fun-part-4-modern-face-recognition-with-deep-learning-c3cffc121d78)
 ## Installation :
 ### Requirements for windows 10 :
 
@@ -23,6 +25,3 @@ here you will find an explanation about the project & more information about dow
 While Windows isn't officially supported, helpful users have posted instructions on how to install this library:
 
   * [@masoudr's Windows 10 installation guide (dlib + face_recognition)](https://github.com/ageitgey/face_recognition/issues/175#issue-257710508)
-  #### How face recognition works ? 
-  
-  * [@how-face-recognition-works](https://medium.com/@ageitgey/machine-learning-is-fun-part-4-modern-face-recognition-with-deep-learning-c3cffc121d78)
