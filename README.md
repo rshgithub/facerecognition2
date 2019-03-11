@@ -20,7 +20,7 @@ here you will find an explanation about the project & more information about dow
   * Microsoft Visual Studio 2017 with C/C++ Compiler installed
   * pyCharm
 
-#### Installing on Windows 10 :
+#### Installing on Windows 10 step by step :
 
 While Windows isn't officially supported, helpful users have posted instructions on how to install this library:
 
