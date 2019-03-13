@@ -22,6 +22,6 @@ here you will find an explanation about the project & more information about dow
 
 #### Installing on Windows 10 step by step :
 
-While Windows isn't officially supported, helpful users have posted instructions on how to install this library:
+While Windows isn't officially supported, helpful users have posted instructions on how to install it :
 
   * [@masoudr's Windows 10 installation guide (dlib + face_recognition)](https://github.com/ageitgey/face_recognition/issues/175#issue-257710508)
